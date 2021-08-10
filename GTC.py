@@ -10,8 +10,8 @@ import csv
 import logging,os
 import random
 
-api_key = 'JFXrlNc2APaDa1F2KtFDVSTJARwhVdCJoDayMp5SeO2WUaILa7gzjWhROMtPqRta'
-api_secret = 'zUlQJK7ZzLrPr95hQr1ygobn1ELwJftWRXbWnne9gjZXB0VBy5mNBMwqr2zqsHF4'
+api_key = 'Your API Key Here'
+api_secret = 'Your API secret Here'
 
 client = Client(api_key, api_secret)
 
